@@ -1,0 +1,3 @@
+OOP project.
+The implementation of the collection class is Bookstore (bidirectional dynamic array). And also the parent class - Book, and three children.
+Methods for adding items to a collection, writing a collection to a file and reading it from a file (not only text, but also Excel) have been implemented. And also a graphical interface has been implemented, which allows you to conveniently work with all the implemented functions.
